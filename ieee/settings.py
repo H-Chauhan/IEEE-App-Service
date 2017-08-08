@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '!#*)u$@0qx8zgoh2wtx(om8hbg6*m*fje&o-*^wr*!_e-q8ez='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['android.ieeedtu.com', '13.126.127.231', '127.0.0.1', 'localhost']
 
